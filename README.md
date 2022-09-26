@@ -1,0 +1,1 @@
+# EFI-Gigabyte-Z490M-Gaming-X-i7-10700K-iGPU-SSD-M.2-970-EVO-Plus
