@@ -11,7 +11,7 @@
 - SSD M.2 Samsung 970 EVO Plus 500 Gb
 
 ## What works
-- macOS Big Sur, macOS Monterey, macOS Ventura beta 8
+- macOS Big Sur, macOS Monterey, macOS Ventura beta 7
 - Audio
 - HDMI/DP
 - All USB ports
