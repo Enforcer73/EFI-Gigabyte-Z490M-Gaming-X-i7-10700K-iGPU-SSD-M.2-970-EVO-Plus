@@ -3,7 +3,7 @@
 <br>
 **Current OpenCore**: 0.8.4
 <br>
-**SMBIOS: iMac 20.1
+SMBIOS: iMac 20.1
 
 ## Complete hardware specs
 - Intel i7 10700K
