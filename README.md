@@ -2,6 +2,8 @@
 **Latest working macOS**: 12.6
 <br>
 **Current OpenCore**: 0.8.4
+<br>
+**SMBIOS: iMac 20.1
 
 ## Complete hardware specs
 - Intel i7 10700K
