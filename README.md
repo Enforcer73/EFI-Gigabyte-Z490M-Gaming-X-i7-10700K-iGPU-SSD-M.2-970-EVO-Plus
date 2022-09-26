@@ -1,4 +1,4 @@
-# EFI Gigabyte Z490M Gaming X + i7 10700K + iGPU + SSD M.2 970 EVO Plus
+# Gigabyte Z490M Gaming X + i7 10700K + iGPU + SSD M.2 970 EVO Plus
 **Latest working macOS**: 12.6
 <br>
 **Current OpenCore**: 0.8.4
