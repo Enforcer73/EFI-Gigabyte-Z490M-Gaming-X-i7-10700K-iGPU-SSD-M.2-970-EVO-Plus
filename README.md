@@ -14,7 +14,7 @@
 - macOS Big Sur, macOS Monterey, macOS Ventura beta 7
 - Audio
 - HDMI/DP
-- Apple GUC
+- Apple GUC Intel UHD
 - All USB ports
 - Everything iCloud related (Drive, iMessage, Facetime, unlock with Apple Watch, etc)
 - Temperature monitoring for everything except GPU
