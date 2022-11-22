@@ -1,7 +1,7 @@
 # Gigabyte Z490M Gaming X + i7 10700K + iGPU + SSD M.2 970 EVO Plus
-**Latest working macOS**: 12.6
+**Latest working macOS**: 13.0.1
 <br>
-**Current OpenCore**: 0.8.4
+**Current OpenCore**: 0.8.6
 <br>
 **SMBIOS**: iMac 20.1
 
@@ -13,7 +13,7 @@
 - SSD M.2 Samsung 970 EVO Plus 500 Gb
 
 ## What works
-- macOS Big Sur, macOS Monterey, macOS Ventura beta 7
+- macOS Big Sur, macOS Monterey, macOS Ventura
 - Audio
 - HDMI/DP
 - Apple GUC Intel UHD
